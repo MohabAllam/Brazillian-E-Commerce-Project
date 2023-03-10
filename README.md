@@ -13,5 +13,5 @@
 ## Data Issues
 * ### Missing values
 * ### Outliers
-* ### Imbalanced
+* ### Imbalance
 * ### Categorical Features
