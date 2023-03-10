@@ -3,6 +3,7 @@
 ### In this project we are mainly helping Sales & Marketing team in many directions such as :
 * Gain useful insights to take Data-Driven decisions.
 * Customer Sgmentation.
+* Customer Satisfaction Prediction.
 * Future Sales  Forecasting.
 # About Dataset
 ## Data Shema
