@@ -8,5 +8,10 @@
 # About Dataset
 ## Data Shema
 ![HRhd2Y0](https://user-images.githubusercontent.com/101987832/224350645-66f36795-73ab-4ebc-bef6-0dece9ec76b3.png)
-## Dataset Source
+## Data Source
 #### Link [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+## Data Issues
+* ### Missing values
+* ### Outliers
+* ### Imbalanced
+* ### Categorical Features
