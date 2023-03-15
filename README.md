@@ -1,3 +1,4 @@
+
 # Epsilon Ai Data Science Diploma (Final Poject)
 # Introduction
 ### This project is about "Olist" a Brazilian ecommerce store which has information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil where its features allow viewing an order from multiple dimensions: from order status, price, payment and freight performance to customer location, product attributes and finally reviews written by customers.
@@ -17,3 +18,5 @@
 * ### Outliers
 * ### Imbalance
 * ### Categorical Features
+ margin-top: 5px;
+ margin-bottom: 5px;
