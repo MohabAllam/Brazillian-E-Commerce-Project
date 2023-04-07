@@ -9,7 +9,7 @@
 * Customer Satisfaction Prediction.
 * Customer Satisfaction using NLP Techniques.
 * Customer Segmentation using (RFM Analysis & K-Means).
-* Deploy Classification & Clustering models and EDA providing the option to upload sample data and investigate it by the App.
+* Deploy Classification & Clustering models and EDA while providing the option to upload sample data and investigate it by the App.
 # About Dataset
 ## Data Shema
 ![HRhd2Y0](https://user-images.githubusercontent.com/101987832/224350645-66f36795-73ab-4ebc-bef6-0dece9ec76b3.png)
